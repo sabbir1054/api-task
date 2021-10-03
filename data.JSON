@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sabbir",
+    "school": "decent international school",
+    "college": "milestone college",
+    "age": 19,
+    "address": "shorkar market, ashulia",
+    "img": "https://raw.githubusercontent.com/sabbir1054/photos-api/master/photo-1.jpg"
+  },
+  {
+    "name": "Salman",
+    "school": "decent international school",
+    "college": "Uttara model college",
+    "age": 20,
+    "address": "shorkar market, ashulia",
+    "img": "https://raw.githubusercontent.com/sabbir1054/photos-api/master/photo-2.jpg"
+  }
+]
